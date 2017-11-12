@@ -14,3 +14,6 @@ This is Blogger 2 Tutorial Rails Application from The Odin Project/ jumpstartlab
 - SQLite3 
 
 
+/home/rghost/Pictures/Screenshot from 2017-11-12 15-39-51.png
+
+/home/rghost/Pictures/Screenshot from 2017-11-12 15-40-53.png
