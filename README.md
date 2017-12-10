@@ -21,8 +21,4 @@ ____________________________________________________________
 
 ---Desktop  screenshots---
 
-https://cl.ly/3t1Q2L25043s
-
-https://cl.ly/1Q463L1S3Z1M
-
 https://cl.ly/3y1w1x1U450H
